@@ -8,6 +8,8 @@ Final-year Informatics Engineering student at FEUP (Porto), finishing in 2027. I
 
 ### Projects
 
+Coursework from my Informatics Engineering bachelor's at FEUP.
+
 | Project | What it is |
 | --- | --- |
 | **[security-labs](https://github.com/ban08/security-labs)** | Nine offensive-security labs — buffer overflow, format-string, XSS, crypto, PKI, packet spoofing |
