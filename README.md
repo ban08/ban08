@@ -6,7 +6,7 @@ Final-year Informatics Engineering student at FEUP (Porto), finishing in 2027. I
 
 ---
 
-### Selected work
+### Projects
 
 | Project | What it is |
 | --- | --- |
@@ -17,6 +17,12 @@ Final-year Informatics Engineering student at FEUP (Porto), finishing in 2027. I
 | **[eventsquare](https://github.com/ban08/eventsquare)** | An event-management web app in Laravel and PostgreSQL |
 | **[pocketed](https://github.com/ban08/pocketed)** | An expense-tracking mobile app with a full Jest + Maestro test suite and CI |
 | **[computer-graphics](https://github.com/ban08/computer-graphics)** | A real-time WebGL scene: procedural terrain, animated clouds, a wind-swept grass field |
+| **[scrim-image-processor](https://github.com/ban08/scrim-image-processor)** | A small scripting language for editing PNG images through 19 operations, in C++ |
+| **[tetris-java](https://github.com/ban08/tetris-java)** | Terminal Tetris in Java: MVC, design patterns, JUnit and PIT mutation testing |
+| **[freelance-marketplace-php](https://github.com/ban08/freelance-marketplace-php)** | A freelance-services marketplace built from scratch in plain PHP and SQLite |
+| **[lcom-minix-driver-game](https://github.com/ban08/lcom-minix-driver-game)** | A game for Minix 3 driven by hand-written keyboard, timer and video drivers in C |
+| **[ticket-classifier](https://github.com/ban08/ticket-classifier)** | An ML classifier that routes support tickets by type, priority and team (Python, scikit-learn) |
+| **[pancake-solver](https://github.com/ban08/pancake-solver)** | An A\* search solver for the pancake-sorting problem, in Python |
 
 ### Tools
 
