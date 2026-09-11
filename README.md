@@ -24,6 +24,8 @@ Coursework from my Informatics Engineering bachelor's at FEUP.
 | **[freelance-marketplace-php](https://github.com/ban08/freelance-marketplace-php)** | A freelance-services marketplace built from scratch in plain PHP and SQLite |
 | **[lcom-minix-driver-game](https://github.com/ban08/lcom-minix-driver-game)** | A game for Minix 3 driven by hand-written keyboard, timer and video drivers in C |
 | **[ticket-classifier](https://github.com/ban08/ticket-classifier)** | An ML classifier that routes support tickets by type, priority and team (Python, scikit-learn) |
+| **[route-planner](https://github.com/ban08/route-planner)** | A C++ route planner on a custom graph: fastest driving routes and mixed drive-and-walk routes with restrictions |
+| **[packing-optimization](https://github.com/ban08/packing-optimization)** | A knapsack/pallet-packing optimizer in C++ (greedy and dynamic programming) with an ILP solver in Python |
 | **[pancake-solver](https://github.com/ban08/pancake-solver)** | An A\* search solver for the pancake-sorting problem, in Python |
 
 ### Tools
