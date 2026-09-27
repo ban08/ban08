@@ -2,7 +2,6 @@
 
 Final-year Informatics Engineering student at FEUP (Porto), finishing in 2027. I build across the stack — compilers, web, distributed systems and mobile — and I'm moving deliberately into security.
 
-**Currently** — working through low-level exploitation and applied cryptography, and heading for a cybersecurity master's.
 
 ---
 
