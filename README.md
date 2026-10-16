@@ -21,11 +21,13 @@ Coursework from my Informatics Engineering bachelor's at FEUP.
 | **[scrim-image-processor](https://github.com/ban08/scrim-image-processor)** | A small scripting language for editing PNG images through 19 operations, in C++ |
 | **[tetris-java](https://github.com/ban08/tetris-java)** | Terminal Tetris in Java: MVC, design patterns, JUnit and PIT mutation testing |
 | **[freelance-marketplace-php](https://github.com/ban08/freelance-marketplace-php)** | A freelance-services marketplace built from scratch in plain PHP and SQLite |
-| **[lcom-minix-driver-game](https://github.com/ban08/lcom-minix-driver-game)** | A game for Minix 3 driven by hand-written keyboard, timer and video drivers in C |
-| **[ticket-classifier](https://github.com/ban08/ticket-classifier)** | An ML classifier that routes support tickets by type, priority and team (Python, scikit-learn) |
-| **[route-planner](https://github.com/ban08/route-planner)** | A C++ route planner on a custom graph: fastest driving routes and mixed drive-and-walk routes with restrictions |
-| **[packing-optimization](https://github.com/ban08/packing-optimization)** | A knapsack/pallet-packing optimizer in C++ (greedy and dynamic programming) with an ILP solver in Python |
-| **[pancake-solver](https://github.com/ban08/pancake-solver)** | An A\* search solver for the pancake-sorting problem, in Python |
+
+**Other team projects:**
+[lcom-minix-driver-game](https://github.com/ban08/lcom-minix-driver-game) (Minix device drivers in C) ·
+[route-planner](https://github.com/ban08/route-planner) (C++ graph routing) ·
+[packing-optimization](https://github.com/ban08/packing-optimization) (knapsack in C++ and ILP in Python) ·
+[ticket-classifier](https://github.com/ban08/ticket-classifier) (scikit-learn) ·
+[pancake-solver](https://github.com/ban08/pancake-solver) (A\* search in Python)
 
 ### Tools
 
